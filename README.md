@@ -18,7 +18,7 @@ Da jeg ikke arbejdet med Livewire før, men Vue.js har jeg ikke lavet opgave 6 i
 ## Køre projektet lokalt
 
 - Klon GitHub repo.
-- Sørg for at installere pakker som er relateret til proejktet.
+- Sørg for at installere pakker som er relateret til projektet.
 
 ```bash
 composer install
