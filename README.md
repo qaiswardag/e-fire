@@ -19,6 +19,7 @@ Da jeg ikke arbejdet med Livewire før, men Vue.js har jeg ikke lavet opgave 6 i
 
 - Klon GitHub repo.
 - Sørg for at installere pakker som er relateret til projektet.
+- Opdater .env filen med korrekt data.
 
 ```bash
 composer install
