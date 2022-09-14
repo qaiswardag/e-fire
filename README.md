@@ -7,9 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Laravel / Livewire / Tailwind. Basic Screening Test
-
-Da jeg ikke arbejdet med Livewire før, men Vue.js har jeg ikke lavet opgave 6 i Livewire, men blot brugt Laravel blade.
+## Laravel / Livewire / Tailwind
 
 - Public GET endpoint, hvor enhver kan hente en json liste med personer og deres sko: http://127.0.0.1:8000/api/index.
 - Der er sammenlagt blevet brugt 5 timer, inklusiv gennemlæsning af Livewire dokumentation.
