@@ -7,15 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Errors running the app locally
-
-clear the application cache and route cache:
-
-```
-composer dump-autoload
-php artisan cache:clear
-php artisan route:clear
-```
 
 ## About Laravel
 
